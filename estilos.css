@@ -1,0 +1,35 @@
+html {
+    width: 700px;
+}
+
+
+h1 {
+    color:brown;
+}
+ul {
+list-style-type: none;
+background-color: #d6afcd;
+overflow: hidden;
+margin: 20px;
+padding: 20px;
+
+}
+
+li{
+
+float: left;
+
+}
+li a{
+    display: block;
+    text-decoration: none;
+    margin-left: 10px;
+    padding: 10px;
+    color: white;
+    font-family: verdana;
+    font-size: medium;
+    font-weight: bold;
+}
+li a:hover {
+    background-color: blue;;
+}
